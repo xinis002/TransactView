@@ -1,4 +1,4 @@
-from utils import format_and_print_transactions, sort_transactions, load_transactions,
+from utils import format_and_print_transactions, sort_transactions, load_transactions
 
 def main():
     file_path = 'transactions.json'
